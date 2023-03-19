@@ -1,8 +1,15 @@
 # About
 Pyhton3 script uses the pjsip library to call and play recorded audio to given numbers (CSV format).
 <br>
-# Features
 
+# Use Case
+User (who will use the script) wants a software that can initiate calls to multiple numbers and play a predefined recording after the call is received. 
+<br>
+This type of application can be useful for businesses that want to announce information to their customers.
+<br>
+
+
+# Features
 <ul>
   <li> 
     <p>Filter unique numbers.</p>
@@ -15,10 +22,9 @@ Pyhton3 script uses the pjsip library to call and play recorded audio to given n
 </ul>
 <br>
 
+
 # Steps To Use
-
 Considering the script will be used on linux (ubuntu).
-
 <ul>
   <li> 
     <p>Follow this <a href="https://github.com/mgwilliams/python3-pjsip">repository</a> to set up pjsip/pjsua for python3.</p>
@@ -47,7 +53,6 @@ Considering the script will be used on linux (ubuntu).
 
 
 # Note
-
 <ul>
   <li> 
     <p>While installing PJSIP carefully follow the steps. For first time it is better to use virtual machine.</p>
