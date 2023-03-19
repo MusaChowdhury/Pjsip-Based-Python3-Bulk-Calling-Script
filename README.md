@@ -3,7 +3,7 @@ Pyhton3 script uses the pjsip library to call and play recorded audio to given n
 <br>
 
 # Use Case
-User (who will use the script) wants a software that can initiate calls to multiple numbers and play a predefined recording after the call is received. 
+The script can initiate calls to multiple numbers and play a predefined recording after the call is received.
 <br>
 This type of application can be useful for businesses that want to announce information to their customers.
 <br>
